@@ -1,0 +1,22 @@
+date,item,category,quantity,price,revenue
+2024-01-01,Espresso,Coffee,3,2.5,7.5
+2024-01-01,Cappuccino,Coffee,2,3.5,7.0
+2024-01-01,Croissant,Food,4,2.0,8.0
+2024-01-02,Latte,Coffee,5,4.0,20.0
+2024-01-02,Cold Brew,Coffee,3,4.0,12.0
+2024-01-02,Muffin,Food,2,2.75,5.5
+2024-01-03,Espresso,Coffee,4,2.5,10.0
+2024-01-03,Latte,Coffee,6,4.0,24.0
+2024-01-03,Sandwich,Food,1,5.0,5.0
+2024-01-04,Cappuccino,Coffee,2,3.5,7.0
+2024-01-04,Croissant,Food,5,2.0,10.0
+2024-01-04,Cold Brew,Coffee,3,4.0,12.0
+2024-01-05,Espresso,Coffee,6,2.5,15.0
+2024-01-05,Muffin,Food,4,2.75,11.0
+2024-01-05,Latte,Coffee,3,4.0,12.0
+2024-01-06,Cold Brew,Coffee,2,4.0,8.0
+2024-01-06,Sandwich,Food,3,5.0,15.0
+2024-01-06,Cappuccino,Coffee,4,3.5,14.0
+2024-01-07,Latte,Coffee,5,4.0,20.0
+2024-01-07,Espresso,Coffee,3,2.5,7.5
+2024-01-07,Croissant,Food,2,2.0,4.0
